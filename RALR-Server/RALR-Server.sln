@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RALR-Server", "RALR-Server.csproj", "{B335DD26-E9AB-4784-B934-CE13B38EF1FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B335DD26-E9AB-4784-B934-CE13B38EF1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B335DD26-E9AB-4784-B934-CE13B38EF1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B335DD26-E9AB-4784-B934-CE13B38EF1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B335DD26-E9AB-4784-B934-CE13B38EF1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F877F4EB-2509-4DB2-A147-6BDCC6827104}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\horul\source\repos\RALR-Client\obj\Debug\net8.0\RALR-Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horul\source\repos\RALR-Client\obj\Debug\net8.0\RALR-Client.AssemblyInfoInputs.cache
+C:\Users\horul\source\repos\RALR-Client\obj\Debug\net8.0\RALR-Client.AssemblyInfo.cs
+C:\Users\horul\source\repos\RALR-Client\obj\Debug\net8.0\RALR-Client.csproj.CoreCompileInputs.cache
+C:\Users\horul\source\repos\RALR-Client\bin\Debug\net8.0\RALR-Client.exe
+C:\Users\horul\source\repos\RALR-Client\bin\Debug\net8.0\RALR-Client.deps.json
+C:\Users\horul\source\repos\RALR-Client\bin\Debug\net8.0\RALR-Client.runtimeconfig.json
+C:\Users\horul\source\repos\RALR-Client\bin\Debug\net8.0\RALR-Client.dll
+C:\Users\horul\source\repos\RALR-Client\bin\Debug\net8.0\RALR-Client.pdb
+C:\Users\horul\source\repos\RALR-Client\obj\Debug\net8.0\RALR-Client.dll
+C:\Users\horul\source\repos\RALR-Client\obj\Debug\net8.0\refint\RALR-Client.dll
+C:\Users\horul\source\repos\RALR-Client\obj\Debug\net8.0\RALR-Client.pdb
+C:\Users\horul\source\repos\RALR-Client\obj\Debug\net8.0\RALR-Client.genruntimeconfig.cache
+C:\Users\horul\source\repos\RALR-Client\obj\Debug\net8.0\ref\RALR-Client.dll

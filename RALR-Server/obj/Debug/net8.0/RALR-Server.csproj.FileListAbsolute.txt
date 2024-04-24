@@ -1,0 +1,15 @@
+C:\Users\horul\source\repos\RALR-Server\obj\Debug\net8.0\RALR-Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horul\source\repos\RALR-Server\obj\Debug\net8.0\RALR-Server.AssemblyInfoInputs.cache
+C:\Users\horul\source\repos\RALR-Server\obj\Debug\net8.0\RALR-Server.AssemblyInfo.cs
+C:\Users\horul\source\repos\RALR-Server\obj\Debug\net8.0\RALR-Server.csproj.CoreCompileInputs.cache
+C:\Users\horul\source\repos\RALR-Server\bin\Debug\net8.0\RALR-Server.exe
+C:\Users\horul\source\repos\RALR-Server\bin\Debug\net8.0\RALR-Server.deps.json
+C:\Users\horul\source\repos\RALR-Server\bin\Debug\net8.0\RALR-Server.runtimeconfig.json
+C:\Users\horul\source\repos\RALR-Server\bin\Debug\net8.0\RALR-Server.dll
+C:\Users\horul\source\repos\RALR-Server\bin\Debug\net8.0\RALR-Server.pdb
+C:\Users\horul\source\repos\RALR-Server\obj\Debug\net8.0\RALR-Server.dll
+C:\Users\horul\source\repos\RALR-Server\obj\Debug\net8.0\refint\RALR-Server.dll
+C:\Users\horul\source\repos\RALR-Server\obj\Debug\net8.0\RALR-Server.pdb
+C:\Users\horul\source\repos\RALR-Server\obj\Debug\net8.0\RALR-Server.genruntimeconfig.cache
+C:\Users\horul\source\repos\RALR-Server\obj\Debug\net8.0\ref\RALR-Server.dll
+C:\Users\horul\source\repos\RALR-Server\obj\Debug\net8.0\RALR-Server.csproj.AssemblyReference.cache
